@@ -59,7 +59,7 @@ public class SkillsController {
                     "</select></label>" +
                     "</div>" +
                 "<div>" +
-                "<input type='submit' value='Submit!'>" +
+                "<input type='submit' value='Submit'>" +
                 "</div>" +
                 "</form>" +
                 "</body>" +
